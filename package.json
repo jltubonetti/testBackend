@@ -1,0 +1,21 @@
+{
+  "name": "servicios",
+  "version": "1.0.0",
+  "description": "Challenge técnico",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 '**/*.spec.js'",
+    "serve": "nodemon src/index.js"
+  },
+  "author": "José Luis Tubonetti",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "isomorphic-fetch": "^3.0.0",
+    "mocha": "^10.0.0",
+    "nodemon": "^2.0.19",
+    "should": "^13.2.3"
+  },
+  "type": "module"
+}
