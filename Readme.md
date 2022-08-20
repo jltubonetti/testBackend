@@ -1,6 +1,6 @@
 # Backend Service Test
 
-En el proyecto podremos encontrar 3 operaciones referidas obtener infomación del clima y la ubicación:
+En el proyecto podremos encontrar 3 operaciones referidas a obtener infomación del clima y la ubicación:
 - /location (información de la ubicación actual)
 - /current (información de la ubicación actual o de una ciudad elegida entre las 5 seleccionables, y clima actual)
 - /forecast (información de la ubicación actual o de una ciudad elegida entre las 5 seleccionables, y pronóstico a 5 días)
